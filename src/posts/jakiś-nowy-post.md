@@ -1,5 +1,5 @@
 ---
-title: Jakiś nowy post
+title: Jakis nowy post
 date: 2020-07-02T16:01:45.306Z
 ---
 Jakiś tekst wpisany przez Netlify CMS
