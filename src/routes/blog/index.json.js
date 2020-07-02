@@ -14,6 +14,7 @@ function getAllPosts(filesPath) {
     const html = marked(content, { renderer });
     return {
       html,
+      slug: fileName.substring(0, fileName.length - 3),
       ...data,
     };
   });
